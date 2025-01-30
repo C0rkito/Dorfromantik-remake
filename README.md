@@ -1,10 +1,3 @@
-Pour compiler: make
+Le joueur doit assembler des tuiles hexagonales pour former un paysage harmonieux.
 
-
-pour executer: make run
-
-
-pour la doc: make javadoc
-
-
-pour fichier jar: make jar
+[Rapport du projet](RAPPORT_DORF_ROMANTIK.pdf)
